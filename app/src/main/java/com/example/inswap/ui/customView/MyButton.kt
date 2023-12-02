@@ -10,7 +10,7 @@ import androidx.core.content.ContextCompat
 import com.example.inswap.R
 
 class MyButton: AppCompatButton {
-    private lateinit var enabledBackground: Drawable
+    lateinit var enabledBackground: Drawable
     private lateinit var disabledBackground: Drawable
     private var txtColor: Int = 0
 

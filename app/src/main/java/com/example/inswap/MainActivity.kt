@@ -28,6 +28,7 @@ class MainActivity : AppCompatActivity() {
         val appBarConfiguration = AppBarConfiguration.Builder(
                 R.id.navigation_home, R.id.navigation_nearby, R.id.navigation_scan, R.id.navigation_profile
         ).build()
+
         setupActionBarWithNavController(navController, appBarConfiguration)
         navView.setupWithNavController(navController)
     }
