@@ -7,7 +7,7 @@
         android:title="@string/title_home" />
 
     <item
-        android:id="@+id/navigation_nearby"
+        android:id="@+id/navigation_nearbyMaps"
         android:icon="@drawable/ic_explore_neaby"
         android:title="@string/title_nearby"/>
 
