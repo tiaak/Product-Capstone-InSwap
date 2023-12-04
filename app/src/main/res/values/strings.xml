@@ -14,4 +14,6 @@
     <string name="inswap_logo">InSwap Logo</string>
     <string name="sign_up">Sign up</string>
     <string name="name">Name</string>
+    <string name="bahan_tersedia">Bahan Tersedia</string>
+    <string name="searchBar_hint">Masukan nama bahan</string>
 </resources>

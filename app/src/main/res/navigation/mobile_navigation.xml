@@ -11,11 +11,6 @@
         android:label="@string/title_home"
         tools:layout="@layout/fragment_home" />
     <fragment
-        android:id="@+id/navigation_nearby"
-        android:name="com.example.inswap.ui.nearby.NearbyFragment"
-        android:label="@string/title_nearby"
-        tools:layout="@layout/fragment_nearby" />
-    <fragment
         android:id="@+id/navigation_scan"
         android:name="com.example.inswap.ui.scan.ScanFragment"
         android:label="@string/title_scan"
@@ -28,7 +23,6 @@
     <fragment
         android:id="@+id/navigation_nearbyMaps"
         android:name="com.example.inswap.ui.nearby.NearbyMapsFragment"
-        android:label="fragment_nearby_maps"
         tools:layout="@layout/fragment_nearby_maps" />
 
 </navigation>
