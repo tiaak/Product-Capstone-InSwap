@@ -14,5 +14,7 @@
         <!-- Customize your theme here. -->
         <item name="colorOnSurfaceVariant">?attr/colorPrimaryVariant</item>
 
+        <item name="fontFamily">@font/poppins_reguler</item>
+
     </style>
 </resources>

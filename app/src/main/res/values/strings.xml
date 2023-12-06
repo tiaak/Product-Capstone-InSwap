@@ -16,4 +16,5 @@
     <string name="name">Name</string>
     <string name="bahan_tersedia">Bahan Tersedia</string>
     <string name="searchBar_hint">Cari bahan</string>
+    <string name="add_ingredient">fab for add ingredients</string>
 </resources>
