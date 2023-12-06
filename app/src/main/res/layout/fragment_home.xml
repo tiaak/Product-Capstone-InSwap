@@ -22,7 +22,6 @@
 <!--        android:layout_width="0dp"-->
 <!--        android:layout_height="0dp"-->
 <!--        android:hint="@string/searchBar_hint"-->
-<!--        app:layout_anchor="@id/searchBar"-->
 <!--        app:layout_constraintBottom_toBottomOf="parent"-->
 <!--        app:layout_constraintEnd_toEndOf="parent"-->
 <!--        app:layout_constraintHorizontal_bias="0.0"-->
@@ -59,11 +58,12 @@
 
     <com.google.android.material.floatingactionbutton.FloatingActionButton
         android:id="@+id/fab_add"
-        android:layout_width="50dp"
-        android:layout_height="50dp"
-        android:src="@drawable/ic_add"
-        android:backgroundTint="@color/green_500"
-        android:layout_marginBottom="70dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/ic_add"
+        app:tint="@color/yellow_200"
+        android:backgroundTint="?attr/colorPrimaryVariant"
+        android:layout_marginBottom="80dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.903"

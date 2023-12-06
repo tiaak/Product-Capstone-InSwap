@@ -15,6 +15,6 @@
         <item name="colorOnSurfaceVariant">?attr/colorPrimaryVariant</item>
 
         <item name="fontFamily">@font/poppins_reguler</item>
-
+        <item name="android:textColor">@color/black</item>
     </style>
 </resources>
