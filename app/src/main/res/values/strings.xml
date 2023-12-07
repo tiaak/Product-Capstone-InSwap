@@ -17,4 +17,11 @@
     <string name="bahan_tersedia">Bahan Tersedia</string>
     <string name="searchBar_hint">Cari bahan</string>
     <string name="add_ingredient">fab for add ingredients</string>
+    <string name="gallery">Gallery</string>
+    <string name="camera">Camera</string>
+    <string name="upload">Upload</string>
+    <string name="nama_bahan">Nama Bahan</string>
+    <string name="kuantitas">Kuantitas</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="lokasi">Lokasi</string>
 </resources>
