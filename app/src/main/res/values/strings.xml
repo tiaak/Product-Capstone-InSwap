@@ -24,4 +24,7 @@
     <string name="kuantitas">Kuantitas</string>
     <string name="deskripsi">Deskripsi</string>
     <string name="lokasi">Lokasi</string>
+    <string name="search">Search</string>
+    <string name="command">Ambil gambar bahan makanan dan kami akan \n menemukan resep terbaik untuk anda!</string>
+    <string name="cari_resep">Cari Resep</string>
 </resources>
