@@ -39,6 +39,7 @@ android {
     }
 
 
+
 }
 
 dependencies {
@@ -64,5 +65,7 @@ dependencies {
     implementation("androidx.activity:activity-ktx:1.8.1")
 
     implementation ("com.google.android.gms:play-services-maps:18.2.0")
+
+    implementation("com.github.bumptech.glide:glide:4.16.0")
 
 }
