@@ -17,8 +17,7 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:srcCompat="@drawable/ic_place_holder"
-        app:tint="?attr/colorPrimaryVariant"/>
+        app:srcCompat="@drawable/ic_place_holder" />
 
 
     <LinearLayout
