@@ -21,8 +21,9 @@
         android:label="@string/title_profile"
         tools:layout="@layout/fragment_profile" />
     <fragment
-        android:id="@+id/navigation_nearbyMaps"
+        android:id="@+id/nearbyMapsFragment"
         android:name="com.example.inswap.ui.nearby.NearbyMapsFragment"
+        android:label="fragment_nearby_maps"
         tools:layout="@layout/fragment_nearby_maps" />
 
 </navigation>
