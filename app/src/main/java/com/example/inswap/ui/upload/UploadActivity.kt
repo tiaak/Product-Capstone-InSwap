@@ -6,7 +6,6 @@ import android.os.Bundle
 import android.util.Log
 import androidx.activity.result.PickVisualMediaRequest
 import androidx.activity.result.contract.ActivityResultContracts
-import com.example.inswap.R
 import com.example.inswap.databinding.ActivityUploadBinding
 import com.example.inswap.getImageUri
 
