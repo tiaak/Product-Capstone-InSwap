@@ -15,7 +15,7 @@ import com.google.android.gms.maps.SupportMapFragment
 import com.google.android.gms.maps.model.LatLng
 import com.google.android.gms.maps.model.MarkerOptions
 
-class NearbyMapsFragment : Fragment(), OnMapReadyCallback {
+class NearbyMapsFragment : Fragment(){
 
     private lateinit var mMap: GoogleMap
 
@@ -29,6 +29,8 @@ class NearbyMapsFragment : Fragment(), OnMapReadyCallback {
          * install it inside the SupportMapFragment. This method will only be triggered once the
          * user has installed Google Play services and returned to the app.
          */
+        mMap = googleMap
+
         val sydney = LatLng(-34.0, 151.0)
         googleMap.addMarker(MarkerOptions().position(sydney).title("Marker in Sydney"))
         googleMap.moveCamera(CameraUpdateFactory.newLatLng(sydney))
@@ -48,12 +50,12 @@ class NearbyMapsFragment : Fragment(), OnMapReadyCallback {
         mapFragment?.getMapAsync(callback)
     }
 
-    override fun onMapReady(googleMap: GoogleMap) {
-        mMap = googleMap
-
-        mMap.uiSettings.isZoomControlsEnabled = true
-        mMap.uiSettings.isIndoorLevelPickerEnabled = true
-        mMap.uiSettings.isCompassEnabled = true
-        mMap.uiSettings.isMapToolbarEnabled = true
-    }
+//    override fun onMapReady(googleMap: GoogleMap) {
+//        mMap = googleMap
+//
+//        mMap.uiSettings.isZoomControlsEnabled = true
+//        mMap.uiSettings.isIndoorLevelPickerEnabled = true
+//        mMap.uiSettings.isCompassEnabled = true
+//        mMap.uiSettings.isMapToolbarEnabled = true
+//    }
 }
