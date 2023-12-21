@@ -28,4 +28,5 @@
     <string name="command">Ambil gambar bahan makanan dan kami akan \n menemukan resep terbaik untuk anda!</string>
     <string name="cari_resep">Cari Resep</string>
     <string name="chat_icon">Chat Icon</string>
+    <string name="button_to_chat_room">Button to chat room</string>
 </resources>

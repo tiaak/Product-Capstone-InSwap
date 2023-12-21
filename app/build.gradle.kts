@@ -68,4 +68,6 @@ dependencies {
 
     implementation("com.github.bumptech.glide:glide:4.16.0")
     implementation("pl.droidsonroids.gif:android-gif-drawable:1.2.17")
+
+    implementation("org.tensorflow:tensorflow-lite:2.8.0")
 }
