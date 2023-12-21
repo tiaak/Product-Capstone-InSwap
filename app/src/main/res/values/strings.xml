@@ -29,4 +29,50 @@
     <string name="cari_resep">Cari Resep</string>
     <string name="chat_icon">Chat Icon</string>
     <string name="button_to_chat_room">Button to chat room</string>
+
+    <string-array name="farm_name">
+        <item>Maggot BSF STBL</item>
+        <item>Budidaya Maggot BSF Bengkulu</item>
+        <item>Maggot Hero Farm</item>
+        <item>TBB Maggot</item>
+        <item>Maggot Wangka</item>
+        <item>Umago Farm</item>
+        <item>DMaggot BSF Premium</item>
+        <item>Budidaya Maggot Bekasi - simaggot</item>
+        <item>Maggot Lahat</item>
+        <item>Rumah Maggot BSF</item>
+        <item>Ternak Maggot BSF</item>
+        <item>Peternakan Maggot BSF</item>
+    </string-array>
+
+    <string-array name="address">
+        <item>HCQ9+9R7, Jati Indah, Kec. Tj. Bintang, Kabupaten Lampung Selatan, Lampung</item>
+        <item>Jl. Melati No.09, RT.2/RW.1, Nusa Indah, Kec. Ratu Agung, Kota Bengkulu, Bengkulu 38224</item>
+        <item>Jl. Danau Towuti Gg. Inabah No.161, Surabaya, Kec. Kedaton, Kota Bandar Lampung, Lampung 35148</item>
+        <item>Pulung Kencana RK 5 RT 6 500 meter dari pasar pulung, Pulung Kencana, Kec. Tulang Bawang Tengah, Kabupaten Lampung Tengah, Lampung 34163</item>
+        <item>Farm Maggot Wangka, Jalan Taman Persahabatan Komplek Taman Pesona, Parit Padang, Sungai Liat, Kabupaten Bangka, Kepulauan Bangka Belitung 33211</item>
+        <item>XPVJ+7Q2, Bukit Lama, Kec. Ilir Bar. I, Kota Palembang, Sumatera Selatan 30136</item>
+        <item>Jl. Bali No.2245, 20 Ilir D II, Kec. Kemuning, Kota Palembang, Sumatera Selatan 30127</item>
+        <item>Jl. Kenanga Raya No.4 B, RT.004/RW.006A, Jakasampurna, Kec. Bekasi Bar., Kota Bks, Jawa Barat 17145</item>
+        <item>BANK SAMPAH DP PARTNER, Jln. Alternatif Lahat, Pagar Alam, Kec. Lahat, Kabupaten Muara Enim, Sumatera Selatan 31419</item>
+        <item>3JWP+JHX, RT.Tayas/RW.Tayas, Sri Menanti, Kec. Tj. Raja, Kabupaten Lampung Utara, Lampung 34557</item>
+        <item>M85R+RRC, Lembak, Kec. Lembak, Kabupaten Muara Enim, Sumatera Selatan 31171</item>
+        <item>MG6C+8M3, Suka Maju, Kec. Bumi Agung, Kabupaten Way Kanan, Lampung 34673</item>
+    </string-array>
+
+    <string-array name="phone_number">
+        <item>082184598156</item>
+        <item>089664579020</item>
+        <item>085163113631</item>
+        <item>082210441589</item>
+        <item>083132666396</item>
+        <item>085384734912</item>
+        <item>081272231717</item>
+        <item>081519520071</item>
+        <item>085273123411</item>
+        <item>08877304082</item>
+        <item>083192474079</item>
+        <item>081282128338</item>
+    </string-array>
+
 </resources>
