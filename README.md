@@ -5,6 +5,7 @@ So this app provide some features to support the objectives of this application,
 by scanning the ingredients, and maggot farm hotline if the ingredients can't be processed anymore.
 
 # Build With
+Technoligies that used to build this app are:
 - Android Studio
 - Kotlin
 - Google Maps API
