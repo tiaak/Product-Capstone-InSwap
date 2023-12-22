@@ -12,6 +12,8 @@ Technoligies that used to build this app are:
 - Cloud Firestore
 - Cloud Run
 - Node.Js
+- Phyton
+- Collab
 - TensorFlow Lite
 
 # Member
@@ -24,7 +26,7 @@ Technoligies that used to build this app are:
 - A128BSY2663 - Nabil Falih Khairullah - Politeknik Negeri Jakarta - MD
 
 # Project Link
-- GitHub ML
+- [GitHub ML](https://github.com/Daffa-Niz/IngredientImageRecognition_v1)
 - [GitHub CC](https://github.com/dandi-wcb12/api-backend.git)
 - [Figma Design](https://www.figma.com/file/gVMVik8aVFFkEvaRrQceDf/InSwap?type=design&node-id=15%3A2&mode=design&t=sc0vJE07k23hBSZ9-1)
 
