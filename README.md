@@ -8,7 +8,7 @@ by scanning the ingredients, and maggot farm hotline if the ingredients can't be
 - Android Studio
 - Kotlin
 - Google Maps API
-- etc
+- TensorFlow Lite
 
 # Member
 - M315BSY0459 - Muhammad Daffa Nizar Bahari - Universitas Sriwijaya - ML
@@ -21,7 +21,7 @@ by scanning the ingredients, and maggot farm hotline if the ingredients can't be
 
 # Project Link
 - GitHub ML
-- GitHub CC
+- [GitHub CC](https://github.com/dandi-wcb12/api-backend.git)
 - [Figma Design](https://www.figma.com/file/gVMVik8aVFFkEvaRrQceDf/InSwap?type=design&node-id=15%3A2&mode=design&t=sc0vJE07k23hBSZ9-1)
 
 # Features
