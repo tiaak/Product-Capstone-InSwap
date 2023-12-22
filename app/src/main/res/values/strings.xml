@@ -75,4 +75,23 @@
         <item>081282128338</item>
     </string-array>
 
+<!--    Gatau yang ini gak bisa-->
+    <string-array name="recipe_name">
+<!--        <item>Telur Mata Sapi</item>-->
+<!--        <item>Telur Dadar</item>-->
+<!--        <Item>Soft boiled Egg</Item>-->
+    </string-array>
+
+    <string-array name="recipe_desc">
+        <item>Masakan menggunakan telur yang langsung dipecahkan pada wajan</item>
+        <item>Masakan menggunakan telur yang dikocok terlebih dahulu</item>
+        <item>Masakan menggunakan telur yang direbus selama 3 menit</item>
+    </string-array>
+
+    <string-array name="recipe_photo">
+        <item>https://asset-2.tstatic.net/style/foto/bank/images/kuning-telur_20161027_193605.jpg</item>
+        <item>https://asset.kompas.com/crops/Lh_JCvW761Je_UM06-rIZQZPPPo=/6x17:974x663/750x500/data/photo/2023/08/18/64dec7f2c27da.jpg</item>
+        <item>https://cdn.loveandlemons.com/wp-content/uploads/2021/01/how-long-to-boil-a-soft-boiled-egg.jpg</item>
+    </string-array>
+
 </resources>

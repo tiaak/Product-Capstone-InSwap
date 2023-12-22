@@ -1,5 +1,6 @@
 package com.example.inswap.ui.scan
 
+import android.content.Intent
 import android.net.Uri
 import androidx.lifecycle.ViewModelProvider
 import android.os.Bundle
@@ -16,6 +17,8 @@ import com.example.inswap.databinding.FragmentHomeBinding
 import com.example.inswap.databinding.FragmentScanBinding
 import com.example.inswap.getImageUri
 import com.example.inswap.ui.home.HomeViewModel
+import com.example.inswap.ui.recipe.RecipeActivity
+import com.example.inswap.ui.upload.UploadActivity
 
 class ScanFragment : Fragment() {
 
@@ -41,6 +44,10 @@ class ScanFragment : Fragment() {
 
         binding.galleryButton.setOnClickListener { startGallery() }
         binding.cameraButton.setOnClickListener { startCamera() }
+        binding.uploadButton.setOnClickListener {
+            val moveToUpload = Intent(activity, RecipeActivity::class.java)
+            startActivity(moveToUpload)
+        }
 
         return root
     }
@@ -83,6 +90,5 @@ class ScanFragment : Fragment() {
         super.onDestroyView()
         _binding = null
     }
-
 
 }
