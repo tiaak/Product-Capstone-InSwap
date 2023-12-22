@@ -27,7 +27,7 @@ Technoligies that used to build this app are:
 
 # Project Link
 - [GitHub ML](https://github.com/Daffa-Niz/IngredientImageRecognition_v1)
-- [GitHub CC](https://github.com/dandi-wcb12/api-backend.git)
+- [GitHub CC](https://github.com/dandi-wcb12/Backend-api.git)
 - [Figma Design](https://www.figma.com/file/gVMVik8aVFFkEvaRrQceDf/InSwap?type=design&node-id=15%3A2&mode=design&t=sc0vJE07k23hBSZ9-1)
 
 # Features
