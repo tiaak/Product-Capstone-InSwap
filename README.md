@@ -8,6 +8,9 @@ by scanning the ingredients, and maggot farm hotline if the ingredients can't be
 - Android Studio
 - Kotlin
 - Google Maps API
+- Cloud Firestore
+- Cloud Run
+- Node.Js
 - TensorFlow Lite
 
 # Member
