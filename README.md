@@ -22,7 +22,7 @@ by scanning the ingredients, and maggot farm hotline if the ingredients can't be
 # Project Link
 - GitHub ML
 - GitHub CC
-- Figma Design
+- [Figma Design](https://www.figma.com/file/gVMVik8aVFFkEvaRrQceDf/InSwap?type=design&node-id=15%3A2&mode=design&t=sc0vJE07k23hBSZ9-1)
 
 # Features
 - Login and Register
